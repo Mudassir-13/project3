@@ -46,6 +46,11 @@ nav ul {
   align-items: center;
   height: 50px;
 }
+#map {
+  height: 500px;
+  width: 100%;
+  background-color: white;
+}
 
 .white {
   margin: 20px;
