@@ -26,6 +26,7 @@ nav ul li {
   background: linear-gradient(110deg, #577abc, #1d96c6, #466ab1);
   float: right;
   border-radius: 20px;
+  margin-right: 10px;
 }
 
 nav ul li a {
