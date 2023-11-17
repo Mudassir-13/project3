@@ -6,7 +6,7 @@ function initMap() {
     var marker = new google.maps.Marker({
       position: {lat: 41.77733255084747, lng: -87.61660508659033}, 
       map: map,
-      icon: "images/von.png",
+      icon: "images/oblock.png",
       title: 'Parkway Gardens',
       animation: google.maps.Animation.DROP,
       draggable: true,
